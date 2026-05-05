@@ -1,4 +1,4 @@
-# Typst Desktop PWA
+# Asana Desktop PWA
 
 Template: https://github.com/udontur/pwa-desktop-nix
 
